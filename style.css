@@ -37,8 +37,15 @@ strong {
 
 #mari {
     float: left;
+    padding: 2px;
+    height: 196px;
+    background-color: #9893DA;
 }
 
 .img-conteiner {
     height: 200px;
+}
+
+div {
+    border: 2px solid green;
 }
