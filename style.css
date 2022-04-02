@@ -37,15 +37,17 @@ strong {
 
 #mari {
     float: left;
-    padding: 2px;
+    padding: 20px;
     height: 196px;
-    background-color: #9893DA;
+    background-color: #DBD8F0;
 }
 
 .img-conteiner {
-    height: 200px;
+    height: 230px;
 }
 
-div {
-    border: 2px solid green;
+.aboutme {
+    margin: 15px;  
+    padding: 10px;  
 }
+
